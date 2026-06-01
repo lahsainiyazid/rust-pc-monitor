@@ -1,0 +1,15 @@
+# Rust System Dashboard
+
+A lightweight terminal-based system monitor written in Rust.
+
+## Features
+
+- CPU usage monitoring
+- RAM usage monitoring
+- Temperature monitoring
+- Live refresh in terminal
+
+## Technologies
+
+- Rust
+- sysinfo
